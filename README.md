@@ -18,6 +18,8 @@ The implementation includes:
 - Business aggregation layer
 
 ---
+<img width="683" height="374" alt="Screenshot 2026-05-19 233912" src="https://github.com/user-attachments/assets/0f3568f7-9eef-488c-8e69-dce34242f85e" />
+
 
 # Architecture
 
@@ -58,4 +60,5 @@ DLT_Pipeline_Root/
 │
 └── README.md
 
+<img width="712" height="373" alt="Screenshot 2026-05-19 232438" src="https://github.com/user-attachments/assets/f96444a0-5e58-4181-a340-a2922a55ef02" />
 
